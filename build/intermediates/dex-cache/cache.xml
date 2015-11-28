@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ffc4c4adc1a6a273d902dc03770a7aa81310849c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\pre-dexed\debug\gson-2.3.1-c7bcb3b25f83d7423e1a806a5944fdb0edb9420b.jar" />
+    </item>
+    <item
+        jar="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-40ac06454780e244eab26108fa2cba9c4ef436da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.0\8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0\commons-lang3-3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0">
+        <dex dex="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\pre-dexed\debug\commons-lang3-3.0-e82069ec902cec505dd5b67cc9f65479a7b72ce6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-565779dbd41415a1fb0685c14bfab67bc1cc4e38.jar" />
+    </item>
+    <item
+        jar="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\pre-dexed\debug\classes-ec3392ef35ccfb5d33ff06bbf4b578c50d452376.jar" />
+    </item>
+    <item
+        jar="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Documentos\UNQ\Interfaces\android\libros-REST-android-studio\app\build\intermediates\pre-dexed\debug\classes-004fbc8a4c5bc22f2cb75ff9330903e488183f9a.jar" />
+    </item>
+
+</items>
